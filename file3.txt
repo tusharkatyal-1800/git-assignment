@@ -1,1 +1,2 @@
- hi my name is tushar updted for pull command :
+  Hello now updated to check differences also
+   hi my name is tushar updted for pull command :
